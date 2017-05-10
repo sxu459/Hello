@@ -28,3 +28,5 @@ public class CubeScript : MonoBehaviour {
 		this.transform.RotateAround (Vector3.zero, spinAxis, rotateSpeed);
 	}
 }
+
+//hello testing lalalla
